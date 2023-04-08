@@ -1,8 +1,6 @@
-# This is a sample Python script.
-
-# Press Umschalt+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
+# Fenster03T04 aber jetzt 04
+# das   bbbb
+# da schreib ich noch was
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -16,7 +14,7 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 import tkinter as tk
 from tkinter import ttk
-import serial
+import serial #This is a sample PythoThis is a sample Python script.n script.
 
 # root = tk.Tk()
 
